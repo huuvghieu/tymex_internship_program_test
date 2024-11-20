@@ -48,4 +48,6 @@ The `test` module contains unit tests for different modules to ensure code corre
 
 ## Video demonstrating
 
-https://github.com/huuvghieu/tymex_internship_program_test/blob/main/CurrencyConverterApp/assets/demo_currency_converter_app.mp4
+https://github.com/user-attachments/assets/d0268d95-5eed-42ba-bdc1-7a14cfffccbf
+
+
