@@ -28,10 +28,11 @@ To get started with the Currency Converter project, follow these steps:
    ```bash
    git clone https://github.com/huuvghieu/tymex_internship_program_test.git
    ```
-
 2. Import the project into Android Studio.
 
-3. Build and run the application.
+3. Open CurrencyConverterApp folder.
+
+4. Build and run the application.
 
 ## Dependencies
 
