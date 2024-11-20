@@ -1,4 +1,4 @@
-# Currency Converter - Android Compose Multi-Module Project
+# Currency Converter - Android Compose Clean-Architecture Project
 
 Currency Converter is an Android project built using Jetpack Compose and follows a clean architecture.
 
